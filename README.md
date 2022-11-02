@@ -2,7 +2,6 @@
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning LSTM, RNN's and CNN's.
 - 💞️ I’m looking to collaborate on all topics that I'm interested on.
-- 📫 How to reach me: mar036@gmx.at
 
 <!---
 matgege/matgege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
