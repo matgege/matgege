@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matgege
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning LSTM, RNN's and CNN's.
+- 🌱 I’m currently learning LSTM, RNN's, CNN's and NAM's.
 - 💞️ I’m looking to collaborate on all topics that I'm interested on.
 
 <!---
